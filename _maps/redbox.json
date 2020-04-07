@@ -1,0 +1,11 @@
+{
+    "map_name": "Redbox Playground",
+    "map_path": "map_files/generic",
+    "map_file": "redbox.dmm",
+	"shuttles": {
+	    "cargo": "cargo_delta"
+    },
+	"traits": [
+		{"Linkage": "Self"}
+	]
+}
